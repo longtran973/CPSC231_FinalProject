@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 
 public class Player {
-    private LinkedList<Card> hand;  // Using LinkedList for consistency with Dealer's methods
+    private LinkedList<Card> hand;
     private boolean isStanding;
 
     // Initialize Player
